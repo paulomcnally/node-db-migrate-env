@@ -1,0 +1,30 @@
+{
+  "name": "db-migrate-env",
+  "description": "Use custom env on migrate file created by db-migrate",
+  "version": "0.0.1",
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "keywords": [
+    "database",
+    "db",
+    "migrate",
+    "migration",
+    "sqlite",
+    "mysql",
+    "postgre"
+  ],
+  "dependencies": {
+    "underscore": "^1.6.0"
+  },
+  "directories": {
+    "lib": "./lib/db-migrate-env"
+  },
+  "main": "./index.js",
+  "bugs": {
+    "url": "https://github.com/paulomcnally/node-db-migrate-env/issues/new",
+    "email": "paulomcnally@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paulomcnally/node-db-migrate-env.git"
+  }
+}
